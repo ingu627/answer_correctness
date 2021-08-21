@@ -46,3 +46,5 @@ Riiid 정답 예측 모델
 | part       | 토익 part 1~7                                                |
 | type_of    | 강의 종류(starter : 2, intention : 7 , solving question : 186, concept : 222) |
 
+
+
